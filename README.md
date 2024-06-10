@@ -1,6 +1,7 @@
 Safiyyah Aswani
 ST10441299
 **My weather app**
+*https://github.com/Safiyyah123/TheWeatherApp*
 
 # Pseudocode (App Planning)
 Start
@@ -77,6 +78,9 @@ Additionally, to ensure the functionally and reliability of my app, I conducted 
 Furthermore, I leveraged GitHub Actions workflows specifically tailored for Android app development, I configured automated testing and build processes to run whenever changes were pushed to the repository. 
 This helped ensure that that my app would work not just on my computer but also on different platforms and environments, enhancing its reliability and compatibility.
 In summary, by utilizing GitHub and repositories, along with GitHub Actions for automated testing and building, I established an efficient and collaborative development workflow for my history app project. (GitHub, n.d.)
+_________________________________________________________________________________________________________________________________________________________________________
+GitHub. (n.d.). Build software better, together. [online] *Available at: https://github.com/topics/login-page [Accessed 10 Jun. 2024].*
 
+‌
 
 
