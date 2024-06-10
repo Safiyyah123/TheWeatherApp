@@ -59,12 +59,9 @@ END
 The weather app is a useful tool for users as it offers the ability to plan their activities based on anticipated weather conditions. 
 By delivering minimum and maximum as well as average temperatures, the app helps users plan their activities and make informed decisions based on weather conditions. 
 The detailed daily information feature allows users to dive deeper into the specifics of each days weather ensuring they have all the data they need at their fingertips. 
-!<img width="190" alt="main screen" src="https://github.com/Safiyyah123/TheWeatherApp/assets/163822823/007adb95-d786-4d61-9e25-d2bc90aad0ff">
-<img width="190" alt="main screen" src="https://github.com/Safiyyah123/TheWeatherApp/assets/163822823/007adb95-d786-4d61-9e25-d2bc90aad0ff">
+
 ![The Weather App main screen](https://github.com/Safiyyah123/TheWeatherApp/assets/163822823/900e4c70-1665-4655-b1eb-e3599ec6550f)
-![The Weather App main screen](https://github.com/Safiyyah123/TheWeatherApp/assets/163822823/900e4c70-1665-4655-b1eb-e3599ec6550f)
-<img width="185" alt="screen 2 weather" src="https://github.com/Safiyyah123/TheWeatherApp/assets/163822823/e680c3c0-db26-4966-9a29-77f98d3cdc26">
-<img width="185" alt="screen 2 weather" src="https://github.com/Safiyyah123/TheWeatherApp/assets/163822823/e680c3c0-db26-4966-9a29-77f98d3cdc26">
+
 
 ### App explanation
 The weather App is a amazing app with a good user interface used to help users to know the weather for the week.
